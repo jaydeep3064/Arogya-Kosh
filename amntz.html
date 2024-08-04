@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Your Perfect Doctor</title>
+    <style>
+        body {
+            font-family: 'Montserrat', Arial, sans-serif;
+            background-color:#2E2E2E;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+    
+        #formContainer {
+            background-color: #67d1ff;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            width: 400px;
+            height:750px;
+            text-align: center;
+        }
+    
+        h2 {
+            color: #2e2e2e;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+    
+        label {
+            display: block;
+            margin: 15px 0 8px;
+            color:#2e2e2e;
+            font-size: 14px;
+        }
+    
+        input, select {
+            width: calc(100% - 20px);
+            padding: 12px;
+            margin-bottom: 20px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+    
+        button {
+            background-color: #b561ff;
+            color: rgb(255, 255, 255);
+            padding: 15px 25px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+    
+        button:hover {
+            background-color: #e24cd0;
+        }
+    
+        #result {
+            margin-top: 20px;
+            font-weight: bold;
+            color: #333;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="formContainer">
+        <h1>Arogya Kosh</h1>
+        <h5><i>Welcome to Arogya Kosh </i></h5>
+
+        <form id="doctorrecommendForm">
+
+            <label for="STATE">STATE:</label>
+            <select id="States" name="States" required>
+                <option value="AndhraPradesh">AndhraPradesh</option>
+                <option value="Karnataka">Karnataka</option>
+                <option value="Kerela">Kerela</option>
+                <option value="Pondicherry">Pondicherry</option>
+                <option value="TamilNadu">TamilNadu</option>
+                <option value="Telengana">Telengana</option>
+
+            </select> 
+            <label for="DISTRICT">DISTRICT (e.g., cereals):</label>
+            <select id="DISTRICT" name="DISTRICT" required>
+                <option value="Krishna">Krishna</option>
+                <option value="Guntur">Guntur</option>
+                <option value="Tirupati">Tirupati</option>
+                <option value="Chittoor">Chittoor</option>
+                <option value="YSR Kadapa">YSR Kadapa</option>
+                <option value="Visakhapatnam">Visakhapatnam</option>
+                <option value="Anakapalli">Anakapalli</option>
+                <option value="Belgaum">Belgaum</option>
+                <option value="Chitradurga">Chitradurga</option>
+                <option value="Kodagu">Kodagu</option>
+                <option value="Mysuru">Mysuru</option>
+                <option value="Udupi">Udupi</option>
+                <option value="Bangalore">Bangalore</option>
+                <option value="Kochi">Kochi</option>
+                <option value="Wayanad">Wayanad</option>
+                <option value="Idukki">Idukki</option>
+                <option value="Kollam">Kollam</option>
+                <option value="Kottayam">Kottayam</option>
+                <option value="Palakkad">Palakkad</option>
+                <option value="Karaikal">Karaikal</option>
+                <option value="Yanam">Yanam</option>
+                <option value="Mahe">Mahe</option>
+                <option value="Puducherry">Puducherry</option>
+                <option value="Warangal">Warangal</option>
+                <option value="Peddapalli">Peddapalli</option>
+                <option value="Vikarabad">Vikarabad</option>
+                <option value="Nalgonda">Nalgonda</option>
+                <option value="Khammam">Khammam</option>
+                <option value="Chennai"></option>
+                <option value="Madurai">Madurai</option>
+                <option value="Ranipet">Ranipet</option>
+                <option value="Vellore">Vellore</option>
+                <option value="Perambalur">Perambalur</option>
+            </select> 
+            <label for="SPECIALITY">SPECIALITY:</label>
+            <select id="SPECIALITY" name="SPECIALITY" required>
+                <option value="EyeSpecialist">EyeSpecialist</option>
+                <option value="ENT">ENT</option>
+                <option value="Cardiologist">Cardiologist</option>
+                <option value="Gynecologist">Gynecologist</option>
+                <option value="Neurologist">Neurologist</option>
+                <option value="Psychiatrist">Psychiatrist</option>
+                <option value="Dentist">Dentist</option>
+                <option value="Surgeon">Surgeon</option>
+            </select> 
+            <label for="LANGUAGE">LANGUAGE (e.g., Tamil,English):</label>
+            <select id="LANGUAGE" name="LANGUAGE" required>
+                <option value="Telugu,English">Telugu,English</option>
+                <option value="Telugu,Hindi">Telugu,Hindi</option>
+                <option value="Telugu,Kannada">Telugu,Kannada</option>
+                <option value="Telugu,Tamil">Telugu,Tamil</option>
+                <option value="Kannada,Telugu">Kannada,Telugu</option>
+                <option value="Kannada,Hindi">Kannada,Hindi</option>
+                <option value="Kannada,English">Kannada,English</option>
+                <option value="Malayalam,English">Malayalam,English</option>
+                <option value="Malayalam,Telugu">Malayalam,Telugu</option>
+                <option value="Malayalam,Kannada">Malayalam,Kannada</option>
+                <option value="Malayalam,Tamil">Malayalam,Tamil</option>
+                <option value="Malayalam,Hindi">Malayalam,Hindi</option>
+                <option value="Tamil,Hindi">Tamil,Hindi</option>
+                <option value="Tamil,English">Tamil,English</option>
+                <option value="Tamil,Telugu">Tamil,Telugu</option>
+                <option value="Tamil,Kannada">Tamil,Kannada</option>
+            </select>  
+
+            <label for="EXPERIENCE">EXPERIENCE:</label>
+            <input type="EXPERIENCE" id="EXPERIENCE" name="EXPERIENCE" required>
+
+
+            <label for="PINCODE">PINCODE:</label>
+            <input type="PINCODE" id="PINCODE" name="PINCODE" required>
+
+
+            <label for="RATINGS">RATINGS:</label>
+            <input type="RATINGS" id="RATINGS" name="RATINGS" required>
+
+
+                 
+            <button type="button" onclick="recomendDoctor()" id="submitButton" disabled>Recommend Doctor</button>
+        </form>
+
+        <div id="result"></div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const submitButton = document.getElementById('submitButton');
+            const formFields = document.querySelectorAll('#doctorrecommendForm input, #doctorrecommendForm select');
+
+            function checkFields() {
+                let allFieldsFilled = true;
+                formFields.forEach(function (field) {
+                    if (field.value.trim() === '') {
+                        document.getElementById('result').innerText = "please fill all fields";
+                        allFieldsFilled = false;
+
+                    }
+                });
+
+                submitButton.disabled = !allFieldsFilled;
+            }
+
+            formFields.forEach(function (field) {
+                field.addEventListener('input', checkFields);
+            });
+        });
+        function recomendDoctor() {
+            // Collect user inputs
+            var RATINGS = document.getElementById('RATINGS').value;
+            var PINCODE = document.getElementById('PINCODE').value;
+            var EXPERIENCE = document.getElementById('EXPERIENCE').value;
+            var LANGUAGE = document.getElementById('LANGUAGE').value;
+            var SPECIALITY = document.getElementById('SPECIALITY').value;
+            var DISTRICT = document.getElementById('DISTRICT').value;
+            var STATE = document.getElementById('STATE').value;
+
+            // Prepare the data to be sent
+            var data = {
+                "RATINGS": parseFloat(RATINGS),
+                "PINCODE": parseFloat(PINCODE),
+                "EXPERIENCE": parseFloat(EXPERIENCE),
+                "LANGUAGE": LANGUAGE,
+                "SPECIALITY": SPECIALITY,
+                "DISTRICT": DISTRICT,
+                "STATE": STATE
+            };
+
+            // Send a POST request to the Flask API
+            fetch("http://127.0.0.1:5000", {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(result => {
+                // Display the result
+                document.getElementById('result').innerText = " predict doctor:" + result.predicted_label;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('result').innerText = "Error occurred. Please try again.";
+            });
+        }
+    </script>
+
+</body>
+</html>

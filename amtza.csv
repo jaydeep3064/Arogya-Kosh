@@ -1,0 +1,540 @@
+STATE,DISTRICT,SPECIALITY,LANGUAGE,EXPERIENCE,PINCODE,RATINGS,DrName
+AndhraPradesh,EastGodavari,EyeSpecialist,"Telugu,English",10,533101,3.8,barjraj
+AndhraPradesh,EastGodavari,ENT,"Telugu,English",15,533107,4.2,ramdin verma
+AndhraPradesh,EastGodavari,Cardiologist,"Telugu,English",5,533105,4.6,sharat chandran
+AndhraPradesh,EastGodavari,Gynecologist,"Telugu,Hindi",7,533307,5,birender mandal
+AndhraPradesh,EastGodavari,Neurologist,"Telugu,Hindi",8,533307,3.9,amit
+AndhraPradesh,EastGodavari,Psychiatrist,"Telugu,Hindi",6,533204,4.1,kushal
+AndhraPradesh,EastGodavari,ENT,"Telugu,Hindi",3,533408,4.4,kasim
+AndhraPradesh,EastGodavari,Surgeon,"Telugu,Hindi",4,533508,4.8,shiv prakash
+AndhraPradesh,EastGodavari,Dentist,"Telugu,English",8,533602,5,vikram singh
+AndhraPradesh,Krishna ,EyeSpecialist,"Telugu,English",9,509352,4,sanjay
+AndhraPradesh,Krishna ,ENT,"Telugu,Kannada",12,509107,3.9,abhi
+AndhraPradesh,Krishna ,Cardiologist,"Telugu,Kannada",18,509102,4.7,ram dutt gupta
+AndhraPradesh,Krishna ,Gynecologist,"Telugu,Kannada",20,509207,5,khadak singh
+AndhraPradesh,Krishna ,Neurologist,"Telugu,Kannada",10,509302,4.5,gurmit singh
+AndhraPradesh,Krishna ,Psychiatrist,"Telugu,Kannada",15,533101,3.9,chander pal
+AndhraPradesh,Krishna ,ENT,"Telugu,English",5,533107,3.8,aman
+AndhraPradesh,Krishna ,Surgeon,"Telugu,English",7,533105,4.6,khursid
+AndhraPradesh,Krishna ,Dentist,"Telugu,English",8,533307,4.4,rajeev
+AndhraPradesh,Krishna ,EyeSpecialist,"Telugu,Hindi",6,533307,4.9,durgesh
+AndhraPradesh,Krishna ,ENT,"Telugu,Hindi",3,533204,5,nahar singh
+AndhraPradesh,Krishna ,Cardiologist,"Telugu,Hindi",4,533408,4.8,ram kumar
+AndhraPradesh,Guntur,Gynecologist,"Telugu,Hindi",8,533508,5,sunder paal
+AndhraPradesh,Guntur,Neurologist,"Telugu,Tamil",9,533602,5,maansingh aswal
+AndhraPradesh,Guntur,Psychiatrist,"Telugu,Tamil",12,509352,3.9,rohit
+AndhraPradesh,Guntur,ENT,"Telugu,Tamil",18,509107,4.6,rohit
+AndhraPradesh,Guntur,Surgeon,"Telugu,Tamil",20,509102,4.1,sparsh
+AndhraPradesh,Guntur,Dentist,"Telugu,English",20,509207,4.9,santosh
+AndhraPradesh,Guntur,EyeSpecialist,"Telugu,English",10,509302,5,santosh
+AndhraPradesh,Guntur,ENT,"Telugu,English",15,533101,4.5,punit khandelwal
+AndhraPradesh,Guntur,Cardiologist,"Telugu,English",5,533107,5,dinesh
+AndhraPradesh,Guntur,Gynecologist,"Telugu,English",7,533105,3.6,gulshan
+AndhraPradesh,Tirupati,Neurologist,"Telugu,English",8,533307,3.2,arvind kumar yadav
+AndhraPradesh,Tirupati,Psychiatrist,"Telugu,English",6,533307,3.8,nausad
+AndhraPradesh,Tirupati,ENT,"Telugu,English",3,533204,3.6,gurmit singh
+AndhraPradesh,Tirupati,Surgeon,"Telugu,Hindi",4,533408,3.7,md. afsar
+AndhraPradesh,Tirupati,Dentist,"Telugu,English",8,533508,3.8,shiv shakti singh
+AndhraPradesh,Tirupati,EyeSpecialist,"Telugu,English",9,533602,4.2,moti lal
+AndhraPradesh,Tirupati,ENT,"Telugu,English",12,509352,4.6,kausal kumar
+AndhraPradesh,Tirupati,Cardiologist,"Telugu,English",18,509107,5,rohit
+AndhraPradesh,Tirupati,Gynecologist,"Telugu,Hindi",20,509102,3.9,rehan
+AndhraPradesh,Tirupati,Neurologist,"Telugu,Hindi",10,509207,4.1,mohabbat ali
+AndhraPradesh,Tirupati,Psychiatrist,"Telugu,Hindi",15,509302,4.4,raj kumar
+AndhraPradesh,YSR Kadapa,ENT,"Telugu,Hindi",5,533101,4.8,jaswant singh
+AndhraPradesh,YSR Kadapa,Surgeon,"Telugu,Hindi",7,533107,5,rohan
+AndhraPradesh,YSR Kadapa,Dentist,"Telugu,English",8,533105,4,chotelal
+AndhraPradesh,YSR Kadapa,EyeSpecialist,"Telugu,English",6,533307,3.9,amit
+AndhraPradesh,YSR Kadapa,ENT,"Telugu,Kannada",3,533307,4.7,rupesh
+AndhraPradesh,YSR Kadapa,Cardiologist,"Telugu,Kannada",4,533204,5,midda
+AndhraPradesh,YSR Kadapa,Gynecologist,"Telugu,Kannada",8,533408,4.5,dharam singh
+AndhraPradesh,YSR Kadapa,Neurologist,"Telugu,Kannada",9,533508,3.9,manoj
+AndhraPradesh,YSR Kadapa,Psychiatrist,"Telugu,Kannada",12,533602,3.8,ram singh
+AndhraPradesh,YSR Kadapa,ENT,"Telugu,English",18,509352,4.6,preetam kumar
+AndhraPradesh,YSR Kadapa,Surgeon,"Telugu,English",20,509107,4.4,ram kumar
+AndhraPradesh,YSR Kadapa,Dentist,"Telugu,English",10,509102,4.9,sarain
+AndhraPradesh,Chittoor,EyeSpecialist,"Telugu,Hindi",15,509207,5,pankaj kumar
+AndhraPradesh,Chittoor,ENT,"Telugu,Hindi",5,509302,4.8,sheak shakir
+AndhraPradesh,Chittoor,Cardiologist,"Telugu,Hindi",7,533101,5,riyasat ali
+AndhraPradesh,Chittoor,Gynecologist,"Telugu,Hindi",8,533107,5,vinit katariya
+AndhraPradesh,Chittoor,Neurologist,"Telugu,Hindi",6,533105,3.9,sumit
+AndhraPradesh,Chittoor,Psychiatrist,"Telugu,English",3,533307,4.6,arindra
+AndhraPradesh,Chittoor,ENT,"Telugu,English",4,533307,4.1,kali charan
+AndhraPradesh,Chittoor,Surgeon,"Telugu,Kannada",8,533204,4.9,badshya khan
+AndhraPradesh,Chittoor,Dentist,"Telugu,Kannada",9,533408,5,vikash
+AndhraPradesh,Chittoor,EyeSpecialist,"Telugu,Kannada",12,533508,4.5,devinder chadda
+AndhraPradesh,Visakhapatnam,ENT,"Telugu,Kannada",18,533602,5,aman
+AndhraPradesh,Visakhapatnam,Cardiologist,"Telugu,Kannada",20,509352,3.6,mohan singh
+AndhraPradesh,Visakhapatnam,Gynecologist,"Telugu,English",10,509107,3.2,hemant
+AndhraPradesh,Visakhapatnam,Neurologist,"Telugu,English",15,509102,3.8,shivam
+AndhraPradesh,Visakhapatnam,Psychiatrist,"Telugu,English",5,509207,3.6,yash mittal
+AndhraPradesh,Visakhapatnam,ENT,"Telugu,Hindi",7,509302,3.7,aakash
+AndhraPradesh,Visakhapatnam,Surgeon,"Telugu,Hindi",8,533101,3.8,chandesh
+AndhraPradesh,Visakhapatnam,Dentist,"Telugu,Hindi",6,533107,4.2,sumit mitra
+AndhraPradesh,Visakhapatnam,EyeSpecialist,"Telugu,Hindi",3,533105,4.6,supriyal sen
+AndhraPradesh,Visakhapatnam,ENT,"Telugu,Hindi",4,533307,5,gajender kumar
+AndhraPradesh,Visakhapatnam,Cardiologist,"Telugu,English",8,533307,3.9,pooran chand sharma
+AndhraPradesh,Anakapalli,Gynecologist,"Telugu,English",9,533204,4.1,irfan
+AndhraPradesh,Anakapalli,Neurologist,"Telugu,Kannada",12,533408,4.4,azaruddin
+AndhraPradesh,Anakapalli,Psychiatrist,"Telugu,Kannada",18,533508,4.8,mukul yadav
+AndhraPradesh,Anakapalli,ENT,"Telugu,Kannada",20,533602,5,pooran chand sharma
+AndhraPradesh,Anakapalli,Surgeon,"Telugu,Kannada",10,509352,4,manoj
+AndhraPradesh,Anakapalli,Dentist,"Telugu,Kannada",15,509107,3.9,sanjay charee
+AndhraPradesh,Anakapalli,EyeSpecialist,"Telugu,English",5,509102,4.7,raja babu
+AndhraPradesh,Anakapalli,ENT,"Telugu,English",7,509207,5,pawan
+AndhraPradesh,Anakapalli,Cardiologist,"Telugu,English",8,509302,4.5,sandeep
+AndhraPradesh,Anakapalli,Gynecologist,"Telugu,Hindi",6,533101,3.9,rajkumar chawla
+AndhraPradesh,Anakapalli,Neurologist,"Telugu,Hindi",3,533107,3.8,parvesh
+AndhraPradesh,Anakapalli,Psychiatrist,"Telugu,Hindi",4,533105,4.6,mohd ataullah
+AndhraPradesh,Anakapalli,ENT,"Telugu,Hindi",8,533307,4.4,neeraj kumar
+AndhraPradesh,Anakapalli,Surgeon,"Telugu,Hindi",9,533307,4.9,jamil khan
+Karnataka,Belgaum,Dentist,"Kannada,Telugu",12,560083,5,yogita
+Karnataka,Belgaum,EyeSpecialist,"Kannada,Hindi",18,560076,4.8,rijul aggarwal
+Karnataka,Belgaum,ENT,"Kannada,Telugu",20,560004,5,mohd shakib
+Karnataka,Belgaum,Cardiologist,"Kannada,Hindi",10,560007,5,rahul kumar
+Karnataka,Belgaum,Gynecologist,"Kannada,English",15,560068,3.9,rajender
+Karnataka,Belgaum,Neurologist,"Kannada,English",5,560099,4.6,suraj
+Karnataka,Belgaum,Psychiatrist,"Kannada,Telugu",7,560093,4.1,rizwan
+Karnataka,Belgaum,ENT,"Kannada,Hindi",8,560029,4.9,sandeep
+Karnataka,Belgaum,Surgeon,"Kannada,Telugu",6,560034,5,md mustafa
+Karnataka,Belgaum,Dentist,"Kannada,Telugu",3,560003,4.5,har parsad
+Karnataka,Belgaum,EyeSpecialist,"Kannada,Hindi",4,560058,5,deepak
+Karnataka,Belgaum,ENT,"Kannada,Hindi",8,560010,3.6,rahul
+Karnataka,Belgaum,Cardiologist,"Kannada,English",9,560083,3.2,abhishekh
+Karnataka,Belgaum,Gynecologist,"Kannada,English",12,560076,3.8,shelender yadav
+Karnataka,Belgaum,Neurologist,"Kannada,Telugu",18,560004,3.6,sanjay
+Karnataka,Chitradurga,Psychiatrist,"Kannada,Hindi",20,560007,3.7,ankit
+Karnataka,Chitradurga,ENT,"Kannada,Telugu",10,560068,3.8,mohd aakib
+Karnataka,Chitradurga,Surgeon,"Kannada,Hindi",15,560099,4.2,surender singh chauhan
+Karnataka,Chitradurga,Dentist,"Kannada,English",5,560093,4.6,amit
+Karnataka,Chitradurga,EyeSpecialist,"Kannada,English",7,560029,5,arjun
+Karnataka,Chitradurga,ENT,"Kannada,Telugu",8,560034,3.9,rahul sharma
+Karnataka,Chitradurga,Cardiologist,"Kannada,Hindi",6,560003,4.1,keshar ansari
+Karnataka,Chitradurga,Gynecologist,"Kannada,Telugu",3,560058,4.4,raju
+Karnataka,Chitradurga,Neurologist,"Kannada,Telugu",4,560010,4.8,kuldeep singh
+Karnataka,Chitradurga,Psychiatrist,"Kannada,Hindi",8,560083,5,santal
+Karnataka,Chitradurga,ENT,"Kannada,Hindi",9,560076,4,lalit rana
+Karnataka,Chitradurga,Surgeon,"Kannada,English",12,560004,3.9,pulkit sharma
+Karnataka,Chitradurga,Dentist,"Kannada,English",18,560007,4.7,aman
+Karnataka,Chitradurga,EyeSpecialist,"Kannada,Telugu",20,560068,5,jahoor ahmed meer
+Karnataka,Chitradurga,ENT,"Kannada,Hindi",10,560099,4.5,sumit
+Karnataka,Kodagu,Cardiologist,"Kannada,Telugu",15,560093,3.9,tammanne
+Karnataka,Kodagu,Gynecologist,"Kannada,Hindi",5,560029,3.8,kailash kumar
+Karnataka,Kodagu,Neurologist,"Kannada,English",7,560034,4.6,bhagwati prasad
+Karnataka,Kodagu,Psychiatrist,"Kannada,English",8,560003,4.4,ajay
+Karnataka,Kodagu,ENT,"Kannada,Telugu",6,560058,4.9,silender
+Karnataka,Kodagu,Surgeon,"Kannada,Hindi",3,560010,5,deepak
+Karnataka,Kodagu,Dentist,"Kannada,Telugu",4,560083,4.8,akhilesh
+Karnataka,Kodagu,EyeSpecialist,"Kannada,Telugu",8,560076,5,dipendra kumar
+Karnataka,Kodagu,ENT,"Kannada,Hindi",9,560004,5,nitin
+Karnataka,Kodagu,Cardiologist,"Kannada,Hindi",12,560007,3.9,doodhnath pandit
+Karnataka,Kodagu,Gynecologist,"Kannada,English",18,560068,4.6,aslam allam
+Karnataka,Kodagu,Neurologist,"Kannada,English",20,560099,4.1,rahul
+Karnataka,Kodagu,Psychiatrist,"Kannada,Telugu",10,560093,4.9,jitender kumar
+Karnataka,Kodagu,ENT,"Kannada,Hindi",15,560029,5,adnan
+Karnataka,Kodagu,Surgeon,"Kannada,Telugu",5,560034,4.5,vijay
+Karnataka,Mysuru,Dentist,"Kannada,Hindi",7,560003,5,yogesh
+Karnataka,Mysuru,EyeSpecialist,"Kannada,English",8,560058,3.6,kabir
+Karnataka,Mysuru,ENT,"Kannada,English",6,560010,3.2,sarvesh
+Karnataka,Mysuru,Cardiologist,"Kannada,Telugu",3,560083,3.8,rakesh sarkar
+Karnataka,Mysuru,Gynecologist,"Kannada,Hindi",4,560076,3.6,akash gupta
+Karnataka,Mysuru,Neurologist,"Kannada,Telugu",8,560004,3.7,rahul
+Karnataka,Mysuru,Psychiatrist,"Kannada,Telugu",9,560007,3.8,pintu thakur
+Karnataka,Mysuru,ENT,"Kannada,Hindi",12,560068,4.2,vivek
+Karnataka,Mysuru,Surgeon,"Kannada,Hindi",18,560099,4.6,mohd khairul
+Karnataka,Mysuru,Dentist,"Kannada,English",20,560093,5,farmaan khan
+Karnataka,Mysuru,EyeSpecialist,"Kannada,English",10,560029,3.9,vansu dev
+Karnataka,Mysuru,ENT,"Kannada,Telugu",15,560034,4.1,vansu dev
+Karnataka,Mysuru,Cardiologist,"Kannada,Hindi",5,560003,4.4,shyam kumar
+Karnataka,Mysuru,Gynecologist,"Kannada,Telugu",7,560058,4.8,shafibul
+Karnataka,Mysuru,Neurologist,"Kannada,Hindi",8,560010,5,lalit kathuriya
+Karnataka,Udupi,Psychiatrist,"Kannada,English",6,560083,4,pooran chand
+Karnataka,Udupi,ENT,"Kannada,English",3,560076,3.9,aamir hussain
+Karnataka,Udupi,Surgeon,"Kannada,Telugu",4,560004,4.7,kamal jit singh
+Karnataka,Udupi,Dentist,"Kannada,Hindi",8,560007,5,shiv kumar
+Karnataka,Udupi,EyeSpecialist,"Kannada,Telugu",9,560068,4.5,mayank
+Karnataka,Udupi,ENT,"Kannada,Hindi",12,560099,3.9,rohit
+Karnataka,Udupi,Cardiologist,"Kannada,English",18,560093,3.8,som dutt
+Karnataka,Udupi,Gynecologist,"Kannada,English",20,560029,4.6,bablu regar
+Karnataka,Udupi,Neurologist,"Kannada,Telugu",10,560034,4.4,rohit
+Karnataka,Udupi,Psychiatrist,"Kannada,Hindi",15,560003,4.9,rajkumar
+Karnataka,Udupi,ENT,"Kannada,Telugu",5,560058,5,mubarik
+Karnataka,Udupi,Surgeon,"Kannada,Telugu",7,560010,4.8,neeraj
+Karnataka,Udupi,Dentist,"Kannada,Hindi",8,560083,5,sarbjeet
+Karnataka,Bangalore,EyeSpecialist,"Kannada,Hindi",6,560076,5,axar
+Karnataka,Bangalore,ENT,"Kannada,English",3,560004,3.9,amit
+Karnataka,Bangalore,Cardiologist,"Kannada,English",4,560007,4.6,anubhav
+Karnataka,Bangalore,Gynecologist,"Kannada,Telugu",8,560068,4.1,akkash
+Karnataka,Bangalore,Neurologist,"Kannada,Hindi",9,560099,4.9,himanshu
+Karnataka,Bangalore,Psychiatrist,"Kannada,Telugu",12,560093,5,harsh dagar
+Karnataka,Bangalore,ENT,"Kannada,Hindi",18,560029,4.5,anil kumar
+Karnataka,Bangalore,Surgeon,"Kannada,English",20,560034,5,vijay virmani
+Karnataka,Bangalore,Dentist,"Kannada,English",10,560003,3.6,vivek auhari
+Karnataka,Bangalore,EyeSpecialist,"Kannada,Telugu",15,560058,3.2,sachin
+Karnataka,Bangalore,ENT,"Kannada,Hindi",5,560010,3.8,subhash chand bhatia
+Karnataka,Bangalore,Cardiologist,"Kannada,Telugu",7,560083,3.6,bhupender
+Karnataka,Bangalore,Gynecologist,"Kannada,Hindi",8,560076,3.7,raghunandan das
+Karnataka,Bangalore,Neurologist,"Kannada,English",6,560004,3.8,sanjay
+Karnataka,Bangalore,Psychiatrist,"Kannada,English",3,560007,4.2,ajay kumar
+Karnataka,Bangalore,ENT,"Kannada,Telugu",4,560068,4.6,yognder
+Karnataka,Bangalore,Surgeon,"Kannada,Hindi",8,560099,5,subhash
+Kerela,Kochi,Dentist,"Malayalam,Hindi",9,673593,3.9,arun
+Kerela,Kochi,EyeSpecialist,"Malayalam,Hindi",12,682001,4.1,rahul
+Kerela,Kochi,ENT,"Malayalam,English",18,601021,4.4,vikas
+Kerela,Kochi,Cardiologist,"Malayalam,Telugu",20,691003,4.8,vinod
+Kerela,Kochi,Gynecologist,"Malayalam,Telugu",10,609901,5,salman
+Kerela,Kochi,Neurologist,"Malayalam,Kannada",15,601620,4,mohan kumar
+Kerela,Kochi,Psychiatrist,"Malayalam,English",5,673895,3.9,sandeep meghawal
+Kerela,Kochi,ENT,"Malayalam,Tamil",7,673554,4.7,imamudeen
+Kerela,Kochi,Surgeon,"Malayalam,Tamil",8,692100,5,sandeep kumar
+Kerela,Kochi,Dentist,"Malayalam,English",6,696222,4.5,tarjan
+Kerela,Kochi,EyeSpecialist,"Malayalam,Telugu",3,673593,3.9,kuldeep singh
+Kerela,Kochi,ENT,"Malayalam,Hindi",4,682001,3.8,murari
+Kerela,Kochi,Cardiologist,"Malayalam,Hindi",8,601021,4.6,ramvilash
+Kerela,Kochi,Gynecologist,"Malayalam,Hindi",9,691003,4.4,jagdish
+Kerela,Kochi,Neurologist,"Malayalam,English",12,609901,4.9,vishal
+Kerela,Kochi,Psychiatrist,"Malayalam,Telugu",18,601620,5,mohd shahid
+Kerela,Wayanad,ENT,"Malayalam,Telugu",20,673895,4.8,ramvilash
+Kerela,Wayanad,Surgeon,"Malayalam,Kannada",10,673554,5,kuldeep
+Kerela,Wayanad,Dentist,"Malayalam,English",15,692100,5,talim
+Kerela,Wayanad,EyeSpecialist,"Malayalam,Tamil",5,696222,3.9,nanku prasad
+Kerela,Wayanad,ENT,"Malayalam,Tamil",7,673593,4.6,bhola sarkar
+Kerela,Wayanad,Cardiologist,"Malayalam,English",8,682001,4.1,balraj
+Kerela,Wayanad,Gynecologist,"Malayalam,Telugu",6,601021,4.9,ravindra kumar
+Kerela,Wayanad,Neurologist,"Malayalam,Hindi",3,691003,5,rohit kumar
+Kerela,Wayanad,Psychiatrist,"Malayalam,Hindi",4,609901,4.5,uttam
+Kerela,Wayanad,ENT,"Malayalam,Hindi",8,601620,5,babalu sen
+Kerela,Wayanad,Surgeon,"Malayalam,English",9,673895,3.6,rustam shah
+Kerela,Wayanad,Dentist,"Malayalam,Telugu",12,673554,3.2,sukhdev
+Kerela,Wayanad,EyeSpecialist,"Malayalam,Telugu",18,692100,3.8,b vikjay kumar
+Kerela,Wayanad,ENT,"Malayalam,Kannada",20,696222,3.6,dolly
+Kerela,Wayanad,Cardiologist,"Malayalam,English",10,673593,3.7,gopal sharma
+Kerela,Idukki,Gynecologist,"Malayalam,Tamil",15,682001,3.8,beeru
+Kerela,Idukki,Neurologist,"Malayalam,Tamil",5,601021,4.2,vipin
+Kerela,Idukki,Psychiatrist,"Malayalam,English",7,691003,4.6,manish garg
+Kerela,Idukki,ENT,"Malayalam,Telugu",8,609901,5,guddu
+Kerela,Idukki,Surgeon,"Malayalam,Hindi",6,601620,3.9,jatin
+Kerela,Idukki,Dentist,"Malayalam,Hindi",3,673895,4.1,amit kumar
+Kerela,Idukki,,"Malayalam,Hindi",4,673554,4.4,amit kumar
+Kerela,Idukki,EyeSpecialist,"Malayalam,English",8,692100,4.8,shadab
+Kerela,Idukki,ENT,"Malayalam,Telugu",9,696222,5,rakesh
+Kerela,Idukki,Cardiologist,"Malayalam,Telugu",12,673593,4,guddu
+Kerela,Idukki,Gynecologist,"Malayalam,Kannada",18,682001,3.9,abhishek
+Kerela,Idukki,Neurologist,"Malayalam,English",20,601021,4.7,gulfam
+Kerela,Idukki,Psychiatrist,"Malayalam,Tamil",10,691003,5,lalita
+Kerela,Idukki,ENT,"Malayalam,Tamil",15,609901,4.5,mohit maan
+Kerela,Idukki,Surgeon,"Malayalam,English",5,601620,3.9,veer bhan singh
+Kerela,Idukki,Dentist,"Malayalam,Telugu",7,673895,3.8,dinesh kumar
+Kerela,Kollam,EyeSpecialist,"Malayalam,Hindi",8,673554,4.6,amarjeet
+Kerela,Kollam,ENT,"Malayalam,Hindi",6,692100,4.4,satyadev
+Kerela,Kollam,Cardiologist,"Malayalam,Hindi",3,696222,4.9,mohd. mukhtaar
+Kerela,Kollam,Gynecologist,"Malayalam,English",4,673593,5,rishi
+Kerela,Kollam,Neurologist,"Malayalam,Telugu",8,682001,4.8,esrail khan
+Kerela,Kollam,Psychiatrist,"Malayalam,Telugu",9,601021,5,suresh kumar
+Kerela,Kollam,ENT,"Malayalam,Kannada",12,691003,5,pankaj chand
+Kerela,Kollam,Surgeon,"Malayalam,English",18,609901,3.9,ajay narayan
+Kerela,Kollam,Dentist,"Malayalam,Tamil",20,601620,4.6,mridul
+Kerela,Kollam,EyeSpecialist,"Malayalam,Tamil",10,673895,4.1,sumit
+Kerela,Kollam,ENT,"Malayalam,English",15,673554,4.9,saddam
+Kerela,Kollam,Cardiologist,"Malayalam,Telugu",5,692100,5,nikhleshwar bhagat
+Kerela,Kollam,Gynecologist,"Malayalam,Hindi",7,696222,4.5,jai singh
+Kerela,Kollam,Neurologist,"Malayalam,Hindi",8,673593,5,deepak
+Kerela,Kollam,Psychiatrist,"Malayalam,Hindi",6,682001,3.6,sunil kumar
+Kerela,Kottayam,ENT,"Malayalam,English",3,601021,3.2,ram kishan
+Kerela,Kottayam,Surgeon,"Malayalam,Telugu",4,691003,3.8,arun
+Kerela,Kottayam,Dentist,"Malayalam,Telugu",8,609901,3.6,virender
+Kerela,Kottayam,EyeSpecialist,"Malayalam,Kannada",9,601620,3.7,bishun
+Kerela,Kottayam,ENT,"Malayalam,English",12,673895,3.8,pritam singh
+Kerela,Kottayam,Cardiologist,"Malayalam,Tamil",18,673554,4.2,akash gupta
+Kerela,Kottayam,Gynecologist,"Malayalam,Tamil",20,692100,4.6,kishan
+Kerela,Kottayam,Neurologist,"Malayalam,English",10,696222,5,mohd kausar
+Kerela,Kottayam,Psychiatrist,"Malayalam,Telugu",15,673593,3.9,sachin
+Kerela,Kottayam,ENT,"Malayalam,Hindi",5,682001,4.1,harman singh
+Kerela,Kottayam,Surgeon,"Malayalam,Hindi",7,601021,4.4,deepak
+Kerela,Kottayam,Dentist,"Malayalam,English",8,691003,4.8,rajbir
+Kerela,Kottayam,EyeSpecialist,"Malayalam,Telugu",6,609901,5,vinod lal
+Kerela,Kottayam,ENT,"Malayalam,Telugu",3,601620,4,jaydeep
+Kerela,Kottayam,Cardiologist,"Malayalam,Kannada",4,673895,3.9,chander shaker
+Kerela,Kottayam,Gynecologist,"Malayalam,English",8,673554,4.7,krishan
+Kerela,Palakkad,Neurologist,"Malayalam,Tamil",9,692100,5,ram ji
+Kerela,Palakkad,Psychiatrist,"Malayalam,Tamil",12,696222,4.5,jony
+Kerela,Palakkad,ENT,"Malayalam,English",18,673593,3.9,mohammad ali
+Kerela,Palakkad,Surgeon,"Malayalam,Telugu",20,682001,3.8,ashok kumar s/o
+Kerela,Palakkad,Dentist,"Malayalam,Hindi",10,601021,4.6,ravindra kumar
+Kerela,Palakkad,EyeSpecialist,"Malayalam,Hindi",15,691003,4.4,vinayak
+Kerela,Palakkad,ENT,"Malayalam,English",5,609901,4.9,guman singh basyal
+Kerela,Palakkad,Cardiologist,"Malayalam,Telugu",7,601620,5,amardeep
+Kerela,Palakkad,Gynecologist,"Malayalam,Telugu",8,673895,4.8,jagdish
+Kerela,Palakkad,Neurologist,"Malayalam,Kannada",6,673554,5,bharat
+Kerela,Palakkad,Psychiatrist,"Malayalam,English",3,692100,5,azaz
+Kerela,Palakkad,ENT,"Malayalam,Hindi",4,696222,3.9,raja kumar
+Pondicherry,Karaikal,Surgeon,"Tamil,English",8,605001,4.6,parveen
+Pondicherry,Karaikal,Dentist,"Tamil,Hindi",9,605006,4.1,mahabir prasad
+Pondicherry,Karaikal,EyeSpecialist,"Tamil,Hindi",12,605104,4.9,kartikeya
+Pondicherry,Karaikal,ENT,"Tamil,Telugu",18,605103,5,shubham yadav
+Pondicherry,Karaikal,Cardiologist,"Tamil,Kannada",20,605006,4.5,yogesh
+Pondicherry,Karaikal,Gynecologist,"Tamil,English",10,605009,5,madan
+Pondicherry,Karaikal,Neurologist,"Tamil,Hindi",15,605002,3.6,rashid
+Pondicherry,Karaikal,Psychiatrist,"Tamil,English",5,605107,3.2,jitender
+Pondicherry,Karaikal,ENT,"Tamil,Telugu",7,605101,3.8,pawan kumar
+Pondicherry,Karaikal,Surgeon,"Tamil,Hindi",8,605100,3.6,vivek
+Pondicherry,Karaikal,Dentist,"Tamil,English",6,605110,3.7,pintu kumar
+Pondicherry,Karaikal,EyeSpecialist,"Tamil,English",3,605001,3.8,deep
+Pondicherry,Karaikal,ENT,"Tamil,Hindi",4,605006,4.2,dharmbir
+Pondicherry,Karaikal,Cardiologist,"Tamil,Hindi",8,605104,4.6,rishi kakdia
+Pondicherry,Karaikal,Gynecologist,"Tamil,Telugu",9,605103,5,kunal
+Pondicherry,Yanam,Neurologist,"Tamil,Kannada",12,605006,3.9,arman ansari
+Pondicherry,Yanam,Psychiatrist,"Tamil,English",18,605009,4.1,avinsh
+Pondicherry,Yanam,ENT,"Tamil,Hindi",20,605002,4.4,karan
+Pondicherry,Yanam,Surgeon,"Tamil,English",10,605107,4.8,sandeep kumar
+Pondicherry,Yanam,Dentist,"Tamil,Telugu",15,605101,5,sagar
+Pondicherry,Yanam,EyeSpecialist,"Tamil,Hindi",5,605100,4,nikhil
+Pondicherry,Yanam,ENT,"Tamil,English",7,605110,3.9,raman
+Pondicherry,Yanam,Cardiologist,"Tamil,English",8,605001,4.7,sujen manjhi
+Pondicherry,Yanam,Gynecologist,"Tamil,Hindi",6,605006,5,abhijeet
+Pondicherry,Yanam,Neurologist,"Tamil,Hindi",3,605104,4.5,anshu
+Pondicherry,Yanam,Psychiatrist,"Tamil,Telugu",4,605103,3.9,sahil
+Pondicherry,Yanam,ENT,"Tamil,Kannada",8,605006,3.8,aditya som
+Pondicherry,Yanam,Surgeon,"Tamil,English",9,605009,4.6,gaurav
+Pondicherry,Yanam,Dentist,"Tamil,Hindi",12,605002,4.4,raja kumar
+Pondicherry,Yanam,EyeSpecialist,"Tamil,English",18,605107,4.9,sunil
+Pondicherry,Yanam,ENT,"Tamil,Telugu",20,605101,5,ravi kumar
+Pondicherry,Yanam,Cardiologist,"Tamil,Hindi",10,605100,4.8,shankar kumar
+Pondicherry,Yanam,Gynecologist,"Tamil,English",15,605110,5,vishvash
+Pondicherry,Yanam,Neurologist,"Tamil,English",5,605001,5,sonia
+Pondicherry,Mahe,Psychiatrist,"Tamil,Hindi",7,605006,3.9,santosh
+Pondicherry,Mahe,ENT,"Tamil,Hindi",8,605104,4.6,kayamuddin
+Pondicherry,Mahe,Surgeon,"Tamil,Telugu",6,605103,4.1,rohit kumar
+Pondicherry,Mahe,Dentist,"Tamil,Kannada",3,605006,4.9,nandkishore karpenter
+Pondicherry,Mahe,EyeSpecialist,"Tamil,English",4,605009,5,lala bhai
+Pondicherry,Mahe,ENT,"Tamil,Hindi",8,605002,4.5,kishan rai
+Pondicherry,Mahe,Cardiologist,"Tamil,English",9,605107,5,mahender kumar
+Pondicherry,Mahe,Gynecologist,"Tamil,Telugu",12,605101,3.6,deepak
+Pondicherry,Mahe,Neurologist,"Tamil,Hindi",18,605100,3.2,mohd afzal
+Pondicherry,Mahe,Psychiatrist,"Tamil,English",20,605110,3.8,satender
+Pondicherry,Mahe,ENT,"Tamil,English",10,605001,3.6,shiv prasad singh
+Pondicherry,Mahe,Surgeon,"Tamil,Hindi",15,605006,3.7,mobin
+Pondicherry,Mahe,Dentist,"Tamil,Hindi",5,605104,3.8,khokan sarkar
+Pondicherry,Mahe,EyeSpecialist,"Tamil,Telugu",7,605103,4.2,vikash
+Pondicherry,Mahe,ENT,"Tamil,Kannada",8,605006,4.6,krisana braman
+Pondicherry,Mahe,Cardiologist,"Tamil,English",6,605009,5,vipol
+Pondicherry,Mahe,Gynecologist,"Tamil,Hindi",3,605002,3.9,sanjay
+Pondicherry,Mahe,Neurologist,"Tamil,English",4,605107,4.1,mohd miraj ansari
+Pondicherry,Mahe,Psychiatrist,"Tamil,Telugu",8,605101,4.4,rajmani
+Pondicherry,Mahe,ENT,"Tamil,Hindi",9,605100,4.8,harbir  singh
+Pondicherry,Mahe,Surgeon,"Tamil,English",12,605110,5,mohan
+Pondicherry,Mahe,Dentist,"Tamil,English",18,605001,4,farid
+Pondicherry,Mahe,EyeSpecialist,"Tamil,Hindi",20,605006,3.9,yuvraj kumar
+Pondicherry,Mahe,ENT,"Tamil,Hindi",10,605104,4.7,charan jeet singh
+Pondicherry,Mahe,Cardiologist,"Tamil,Telugu",15,605103,5,satish kumar
+Pondicherry,Mahe,Gynecologist,"Tamil,Kannada",5,605006,4.5,gappu
+Pondicherry,Mahe,Neurologist,"Tamil,English",7,605009,3.9,nazeem
+Pondicherry,Puducherry,Psychiatrist,"Tamil,Hindi",8,605002,3.8,aamir
+Pondicherry,Puducherry,ENT,"Tamil,English",6,605107,4.6,vivek sharma
+Pondicherry,Puducherry,Surgeon,"Tamil,Telugu",3,605101,4.4,sandeep
+Pondicherry,Puducherry,Dentist,"Tamil,Hindi",4,605100,4.9,gutam
+Pondicherry,Puducherry,EyeSpecialist,"Tamil,English",8,605110,5,prakul
+Pondicherry,Puducherry,ENT,"Tamil,English",9,605001,4.8,birjesh
+Pondicherry,Puducherry,Cardiologist,"Tamil,Hindi",12,605006,5,sahil tigga
+Pondicherry,Puducherry,Gynecologist,"Tamil,Hindi",18,605104,5,girishi chand
+Pondicherry,Puducherry,Neurologist,"Tamil,Telugu",20,605103,3.9,pavan sharma
+Pondicherry,Puducherry,Psychiatrist,"Tamil,Kannada",10,605006,4.6,ikramuddin
+Pondicherry,Puducherry,ENT,"Tamil,English",15,605009,4.1,sajan
+Pondicherry,Puducherry,Surgeon,"Tamil,Hindi",5,605002,4.9,molu
+Pondicherry,Puducherry,Dentist,"Tamil,English",7,605107,5,dilawar
+Pondicherry,Puducherry,EyeSpecialist,"Tamil,Telugu",8,605101,4.5,naval kishore
+Pondicherry,Puducherry,ENT,"Tamil,Hindi",6,605100,5,sanjay
+Pondicherry,Puducherry,Cardiologist,"Tamil,English",3,605110,3.6,ajahar
+Pondicherry,Puducherry,Gynecologist,"Tamil,English",4,605001,3.2,sanjeev
+Pondicherry,Puducherry,Neurologist,"Tamil,Hindi",8,605006,3.8,raman ralhan
+Pondicherry,Puducherry,Psychiatrist,"Tamil,Hindi",9,605104,3.6,raman ralhan
+Pondicherry,Puducherry,ENT,"Tamil,Telugu",12,605103,3.7,rihana
+Pondicherry,Puducherry,Surgeon,"Tamil,Kannada",18,605006,3.8,prem chand
+Pondicherry,Puducherry,Dentist,"Tamil,English",20,605009,4.2,sandhaya
+Pondicherry,Puducherry,EyeSpecialist,"Tamil,Hindi",10,605002,4.6,ashish
+Pondicherry,Puducherry,ENT,"Tamil,English",15,605107,5,irfan
+Pondicherry,Puducherry,Cardiologist,"Tamil,Telugu",5,605101,3.9,jang bahadur
+Pondicherry,Puducherry,Gynecologist,"Tamil,Hindi",7,605100,4.1,om parkash ahuja
+Pondicherry,Puducherry,Neurologist,"Tamil,English",8,605110,4.4,kamre alam
+Pondicherry,Puducherry,Psychiatrist,"Tamil,English",6,605001,4.8,md. raju
+Pondicherry,Puducherry,ENT,"Tamil,Hindi",3,605006,5,dinesh
+Telengana,Warangal,Surgeon,"Telugu,English",4,505215,4,satpal
+Telengana,Warangal,Dentist,"Telugu,English",8,505208,3.9,ram pyare
+Telengana,Warangal,EyeSpecialist,"Telugu,English",9,505445,4.7,suraj singh
+Telengana,Warangal,ENT,"Telugu,Hindi",12,505184,5,ashfaq
+Telengana,Warangal,Cardiologist,"Telugu,Hindi",18,505212,4.5,shaid
+Telengana,Warangal,Gynecologist,"Telugu,Hindi",20,505998,3.9,vikas gupta
+Telengana,Warangal,Neurologist,"Telugu,Hindi",10,505331,3.8,vijay singh
+Telengana,Warangal,Psychiatrist,"Telugu,Hindi",15,505527,4.6,hari ram
+Telengana,Warangal,ENT,"Telugu,English",5,505474,4.4,manoj kumar
+Telengana,Warangal,Surgeon,"Telugu,English",7,505306,4.9,parash das
+Telengana,Warangal,Dentist,"Telugu,Kannada",8,505480,5,mehraj
+Telengana,Warangal,EyeSpecialist,"Telugu,Kannada",6,505503,4.8,chetan
+Telengana,Warangal,ENT,"Telugu,Kannada",3,505665,5,bhanwar lal
+Telengana,Warangal,Cardiologist,"Telugu,Kannada",4,505114,5,sanavvar
+Telengana,Warangal,Gynecologist,"Telugu,Kannada",8,505215,3.9,rahul sharma
+Telengana,Warangal,Neurologist,"Telugu,English",9,505208,4.6,mustaq
+Telengana,Warangal,Psychiatrist,"Telugu,Malayalam",12,505445,4.1,ramkaran verma
+Telengana,Warangal,ENT,"Telugu,Hindi",18,505184,4.9,mukhtyar hussain
+Telengana,Warangal,Surgeon,"Telugu,Malayalam",20,505212,5,vakil
+Telengana,Warangal,Dentist,"Telugu,English",10,505998,4.5,bilal malik
+Telengana,Warangal,EyeSpecialist,"Telugu,English",15,505331,5,radheshyam sen
+Telengana,Warangal,ENT,"Telugu,English",5,505527,3.6,mukesh
+Telengana,Peddapalli,Cardiologist,"Telugu,Hindi",7,505474,3.2,sunil kumar
+Telengana,Peddapalli,Gynecologist,"Telugu,Hindi",8,505306,3.8,sunny
+Telengana,Peddapalli,Neurologist,"Telugu,Hindi",6,505480,3.6,jitender rajak
+Telengana,Peddapalli,Psychiatrist,"Telugu,Hindi",3,505503,3.7,nayna
+Telengana,Peddapalli,ENT,"Telugu,Hindi",4,505665,3.8,raju singh
+Telengana,Peddapalli,Surgeon,"Telugu,English",8,505114,4.2,sobit saini
+Telengana,Peddapalli,Dentist,"Telugu,English",9,505215,4.6,inder dutt
+Telengana,Peddapalli,EyeSpecialist,"Telugu,Kannada",12,505208,5,shakir
+Telengana,Peddapalli,ENT,"Telugu,Kannada",18,505445,3.9,haseen ahmed
+Telengana,Peddapalli,Cardiologist,"Telugu,Kannada",20,505184,4.1,kiran
+Telengana,Peddapalli,Gynecologist,"Telugu,Kannada",10,505212,4.4,gulam rashul
+Telengana,Peddapalli,Neurologist,"Telugu,Kannada",15,505998,4.8,rajan
+Telengana,Peddapalli,Psychiatrist,"Telugu,English",5,505331,5,ayush
+Telengana,Peddapalli,ENT,"Telugu,Malayalam",7,505527,4,suraj
+Telengana,Peddapalli,Surgeon,"Telugu,Hindi",8,505474,3.9,sehboob
+Telengana,Peddapalli,Dentist,"Telugu,Malayalam",6,505306,4.7,rajanshi
+Telengana,Peddapalli,EyeSpecialist,"Telugu,English",3,505480,5,manish
+Telengana,Vikarabad,ENT,"Telugu,English",4,505503,4.5,amit kumar yadav
+Telengana,Vikarabad,Cardiologist,"Telugu,English",8,505665,3.9,divaraj
+Telengana,Vikarabad,Gynecologist,"Telugu,Hindi",9,505114,3.8,kamlesh
+Telengana,Vikarabad,Neurologist,"Telugu,Hindi",12,505215,4.6,rajiv bagoriya
+Telengana,Vikarabad,Psychiatrist,"Telugu,Hindi",18,505208,4.4,abhinav chaudhary
+Telengana,Vikarabad,ENT,"Telugu,Hindi",20,505445,4.9,rahul
+Telengana,Vikarabad,Surgeon,"Telugu,Hindi",10,505184,5,baivabb das
+Telengana,Vikarabad,Dentist,"Telugu,English",15,505212,4.8,jadeja
+Telengana,Vikarabad,EyeSpecialist,"Telugu,English",5,505998,5,virat
+Telengana,Vikarabad,ENT,"Telugu,Kannada",7,505331,5,mushir ahmed
+Telengana,Vikarabad,Cardiologist,"Telugu,Kannada",8,505527,3.9,vibhuti shyamal
+Telengana,Vikarabad,Gynecologist,"Telugu,Kannada",6,505474,4.6,inderjeet
+Telengana,Vikarabad,Neurologist,"Telugu,Kannada",3,505306,4.1,sanjay
+Telengana,Vikarabad,Psychiatrist,"Telugu,Kannada",4,505480,4.9,puneet lokhande
+Telengana,Vikarabad,ENT,"Telugu,English",8,505503,5,lokesh
+Telengana,Vikarabad,Surgeon,"Telugu,Malayalam",9,505665,4.5,rajkumar
+Telengana,Vikarabad,Dentist,"Telugu,Hindi",12,505114,5,neeraj kandari
+Telengana,Vikarabad,EyeSpecialist,"Telugu,Malayalam",18,505215,3.6,mukul verma
+Telengana,Vikarabad,ENT,"Telugu,English",20,505208,3.2,rijakpal
+Telengana,Nalgonda,Cardiologist,"Telugu,English",10,505445,3.8,jai kishan
+Telengana,Nalgonda,Gynecologist,"Telugu,English",15,505184,3.6,munna lal jain
+Telengana,Nalgonda,Neurologist,"Telugu,Hindi",5,505212,3.7,jai prakash kashyap
+Telengana,Nalgonda,Psychiatrist,"Telugu,Hindi",7,505998,3.8,jai prakash kashyap
+Telengana,Nalgonda,ENT,"Telugu,Hindi",8,505331,4.2,shishram
+Telengana,Nalgonda,Surgeon,"Telugu,Hindi",6,505527,4.6,parveen aggarwal
+Telengana,Nalgonda,Dentist,"Telugu,Hindi",3,505474,5,pramod paswan
+Telengana,Nalgonda,EyeSpecialist,"Telugu,English",4,505306,3.9,ajit
+Telengana,Nalgonda,ENT,"Telugu,English",8,505480,4.1,deelip
+Telengana,Nalgonda,Cardiologist,"Telugu,Kannada",9,505503,4.4,deelip
+Telengana,Nalgonda,Gynecologist,"Telugu,Kannada",12,505665,4.8,rahul
+Telengana,Nalgonda,Neurologist,"Telugu,Kannada",18,505114,5,aaftaab husan
+Telengana,Nalgonda,Psychiatrist,"Telugu,Kannada",20,505215,4,monu
+Telengana,Nalgonda,ENT,"Telugu,Kannada",10,505208,3.9,ramesh
+Telengana,Nalgonda,Surgeon,"Telugu,English",15,505445,4.7,sawan gupta
+Telengana,Nalgonda,Dentist,"Telugu,Malayalam",5,505184,5,munna lal
+Telengana,Nalgonda,EyeSpecialist,"Telugu,Hindi",7,505212,4.5,saurabh
+Telengana,Nalgonda,ENT,"Telugu,Malayalam",8,505998,3.9,sarvesh kumar pandey
+Telengana,Khammam,Cardiologist,"Telugu,English",6,505331,3.8,avdhesh
+Telengana,Khammam,Gynecologist,"Telugu,English",3,505527,4.6,sohnal kumar singh
+Telengana,Khammam,Neurologist,"Telugu,English",4,505474,4.4,najar hussan
+Telengana,Khammam,Psychiatrist,"Telugu,Hindi",8,505306,4.9,ramya 
+Telengana,Khammam,ENT,"Telugu,Hindi",9,505480,5,lavtar singh
+Telengana,Khammam,Surgeon,"Telugu,Hindi",12,505503,4.8,nanak chand
+Telengana,Khammam,Dentist,"Telugu,Hindi",18,505665,5,harprasad sahu
+Telengana,Khammam,EyeSpecialist,"Telugu,Hindi",20,505114,5,vikas kumar
+Telengana,Khammam,ENT,"Telugu,English",10,505215,3.9,ashsish kumar
+Telengana,Khammam,Cardiologist,"Telugu,English",15,505208,4.6,rajesh singh
+Telengana,Khammam,Gynecologist,"Telugu,Kannada",5,505445,4.1,ashu
+Telengana,Khammam,Neurologist,"Telugu,Kannada",7,505184,4.9,manjeet
+Telengana,Khammam,Psychiatrist,"Telugu,Kannada",8,505212,5,jaipal
+Telengana,Khammam,ENT,"Telugu,Hindi",6,505998,4.5,jalil ansari
+TamilNadu,Chennai,Surgeon,"Tamil,English",3,600109,5,deepak verma
+TamilNadu,Chennai,Dentist,"Tamil,Hindi",4,600040,3.6,kasim
+TamilNadu,Chennai,EyeSpecialist,"Tamil,Hindi",8,600106,3.2,monu kumar
+TamilNadu,Chennai,ENT,"Tamil,Telugu",9,600105,3.8,shankar kumar
+TamilNadu,Chennai,Cardiologist,"Tamil,Kannada",12,600110,3.6,manish kumar saket
+TamilNadu,Chennai,Gynecologist,"Tamil,English",18,600001,3.7,vijay
+TamilNadu,Chennai,Neurologist,"Tamil,Hindi",20,600031,3.8,udham
+TamilNadu,Chennai,Psychiatrist,"Tamil,English",10,600008,4.2,saurabh
+TamilNadu,Chennai,ENT,"Tamil,Telugu",15,600092,4.6,ayush
+TamilNadu,Chennai,Surgeon,"Tamil,Hindi",5,600069,5,ravinder
+TamilNadu,Chennai,Dentist,"Tamil,English",7,600109,3.9,rahul
+TamilNadu,Chennai,EyeSpecialist,"Tamil,English",8,600040,4.1,narayan gadri
+TamilNadu,Chennai,ENT,"Tamil,Hindi",6,600106,4.4,lakshman nath
+TamilNadu,Madurai,Cardiologist,"Tamil,Hindi",3,600105,4.8,rahul
+TamilNadu,Madurai,Gynecologist,"Tamil,Telugu",4,600110,5,rohit
+TamilNadu,Madurai,Neurologist,"Tamil,Kannada",8,600001,4,ajay
+TamilNadu,Madurai,Psychiatrist,"Tamil,Hindi",9,600031,3.9,sachin kumar
+TamilNadu,Madurai,ENT,"Tamil,English",12,600008,4.7,shahid
+TamilNadu,Madurai,Surgeon,"Tamil,Hindi",18,600092,5,amarjeet
+TamilNadu,Madurai,Dentist,"Tamil,Hindi",20,600069,4.5,sourav'
+TamilNadu,Madurai,EyeSpecialist,"Tamil,English",10,600109,3.9,ishaan
+TamilNadu,Madurai,ENT,"Tamil,English",15,600040,3.8,harish chand
+TamilNadu,Madurai,Cardiologist,"Tamil,Hindi",5,600106,4.6,puneet jain
+TamilNadu,Madurai,Gynecologist,"Tamil,Hindi",7,600105,4.4,abhishekh
+TamilNadu,Madurai,Neurologist,"Tamil,Hindi",8,600110,4.9,rashab
+TamilNadu,Madurai,Psychiatrist,"Tamil,Hindi",6,600001,5,amit kumar shukla
+TamilNadu,Madurai,ENT,"Tamil,English",3,600031,4.8,vinod
+TamilNadu,Madurai,Surgeon,"Tamil,Hindi",4,600008,5,praful naag
+TamilNadu,Madurai,Dentist,"Tamil,Hindi",8,600092,5,harsha
+TamilNadu,Ranipet,EyeSpecialist,"Tamil,English",9,600069,3.9,deepak rana
+TamilNadu,Ranipet,ENT,"Tamil,English",12,600109,4.6,puran singh rastogi
+TamilNadu,Ranipet,Cardiologist,"Tamil,Hindi",18,600040,4.1,narender
+TamilNadu,Ranipet,Gynecologist,"Tamil,Hindi",20,600106,4.9,lal babu prasad
+TamilNadu,Ranipet,Neurologist,"Tamil,Hindi",10,600105,5,dinesh
+TamilNadu,Ranipet,Psychiatrist,"Tamil,Hindi",15,600110,4.5,rakesh
+TamilNadu,Ranipet,ENT,"Tamil,English",5,600001,5,ankush
+TamilNadu,Ranipet,Surgeon,"Tamil,Hindi",7,600031,3.6,kuldeep
+TamilNadu,Ranipet,Dentist,"Tamil,Hindi",8,600008,3.2,lal chand
+TamilNadu,Ranipet,EyeSpecialist,"Tamil,English",6,600092,3.8,vivek
+TamilNadu,Ranipet,ENT,"Tamil,English",3,600069,3.6,pankaj
+TamilNadu,Ranipet,Cardiologist,"Tamil,Hindi",4,600109,3.7,sanjay
+TamilNadu,Ranipet,Gynecologist,"Tamil,Hindi",8,600040,3.8,kiran pal
+TamilNadu,Ranipet,Neurologist,"Tamil,Hindi",9,600106,4.2,ranveer singh
+TamilNadu,Ranipet,Psychiatrist,"Tamil,Hindi",12,600105,4.6,anwar
+TamilNadu,Ranipet,ENT,"Tamil,English",18,600110,5,sadab urf golu
+TamilNadu,Vellore,Surgeon,"Tamil,Hindi",20,600001,3.9,gorav
+TamilNadu,Vellore,Dentist,"Tamil,Hindi",10,600031,4.1,utkarsh
+TamilNadu,Vellore,EyeSpecialist,"Tamil,English",15,600008,4.4,jitender
+TamilNadu,Vellore,ENT,"Tamil,English",5,600092,4.8,srinivas
+TamilNadu,Vellore,Cardiologist,"Tamil,Hindi",7,600069,5,narayan parsad bhushal
+TamilNadu,Vellore,Gynecologist,"Tamil,Hindi",8,600109,4,abbas
+TamilNadu,Vellore,Neurologist,"Tamil,Hindi",6,600040,3.9,avinash
+TamilNadu,Vellore,Psychiatrist,"Tamil,Hindi",3,600106,4.7,ravish
+TamilNadu,Vellore,ENT,"Tamil,English",4,600105,5,hukum chand
+TamilNadu,Vellore,Surgeon,"Tamil,Hindi",8,600110,4.5,mohan lal
+TamilNadu,Vellore,Dentist,"Tamil,Hindi",9,600001,3.9,akash tomar
+TamilNadu,Vellore,EyeSpecialist,"Tamil,English",12,600031,3.8,mahesh chand tiwari
+TamilNadu,Vellore,ENT,"Tamil,English",18,600008,4.6,rekhai
+TamilNadu,Vellore,Cardiologist,"Tamil,Hindi",20,600092,4.4,gajender kumar
+TamilNadu,Vellore,Gynecologist,"Tamil,Hindi",10,600069,4.9,vashudev
+TamilNadu,Vellore,Neurologist,"Tamil,Hindi",15,600109,5,bhanwar singh
+TamilNadu,Perambalur,Psychiatrist,"Tamil,Hindi",5,600040,4.8,amit kumar
+TamilNadu,Perambalur,ENT,"Tamil,English",7,600106,5,surender sain
+TamilNadu,Perambalur,Surgeon,"Tamil,Hindi",8,600105,5,akshay kumar
+TamilNadu,Perambalur,Dentist,"Tamil,Hindi",6,600110,3.9,goldy
+TamilNadu,Perambalur,EyeSpecialist,"Tamil,English",3,600001,4.6,satyender
+TamilNadu,Perambalur,ENT,"Tamil,English",4,600031,4.1,devender
+TamilNadu,Perambalur,Cardiologist,"Tamil,Hindi",8,600008,4.9,veer
+TamilNadu,Perambalur,Gynecologist,"Tamil,Hindi",9,600092,5,ankush mittra
+TamilNadu,Perambalur,Neurologist,"Tamil,Hindi",12,600069,4.5,mohd. amir
+TamilNadu,Perambalur,Psychiatrist,"Tamil,Hindi",18,600109,5,babloo
+TamilNadu,Perambalur,ENT,"Tamil,English",20,600040,3.6,bhavesh dass
+TamilNadu,Perambalur,Surgeon,"Tamil,Hindi",10,600106,3.2,gourav
+TamilNadu,Perambalur,Dentist,"Tamil,Hindi",15,600105,3.8,sunil
+TamilNadu,Perambalur,EyeSpecialist,"Tamil,English",5,600110,3.6,yogitha
+TamilNadu,Perambalur,ENT,"Tamil,English",7,600001,3.7,yogesh rawat
+TamilNadu,Perambalur,Cardiologist,"Tamil,Hindi",8,600031,3.8,amarapal
+TamilNadu,Perambalur,Gynecologist,"Tamil,Hindi",6,600008,4.2,rajesh agarwal
+TamilNadu,Perambalur,Neurologist,"Tamil,Hindi",3,600092,4.6,tara singh rawat
+TamilNadu,Perambalur,Psychiatrist,"Tamil,Hindi",4,600069,5,suhaib
+TamilNadu,Perambalur,ENT,"Tamil,English",8,600109,3.9,parnav kumar
+TamilNadu,Perambalur,Surgeon,"Tamil,Hindi",9,600040,4.1,neeraj kumar jha
+TamilNadu,Perambalur,Dentist,"Tamil,Hindi",12,600106,4.4,parminder
+TamilNadu,Perambalur,EyeSpecialist,"Tamil,English",18,600105,4.8,mustafa
+TamilNadu,Perambalur,ENT,"Tamil,English",20,600110,5,ajay haldar
+TamilNadu,Perambalur,Cardiologist,"Tamil,Hindi",10,600001,4,sanjay
+TamilNadu,Perambalur,Gynecologist,"Tamil,Hindi",15,600031,3.9,dharmender
+TamilNadu,Perambalur,Neurologist,"Tamil,Hindi",5,600008,4.7,gaurav sethi
+TamilNadu,Perambalur,Psychiatrist,"Tamil,Hindi",7,600092,5,parth
+TamilNadu,Perambalur,ENT,"Tamil,English",8,600069,4.5,anurag yadav
